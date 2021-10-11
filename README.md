@@ -2,7 +2,7 @@
 ## Requirements
 * adb
 ## Execution
-``
+```
 adb devices
 debloat.sh
-``
+```
